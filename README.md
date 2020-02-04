@@ -3,7 +3,7 @@
 Android Food Ordering App made with Java 
 
 # Features:
-- Login, Logout and Signup using Firebase .
+- Login, Logout and Signup using Firebase & FaceBook.
 - Manage and personalize your account.
 - Beautiful UI with Carousel and nice Color combinations.
 - Offline Capabilities.
