@@ -7,7 +7,7 @@ Android Food Ordering App made with Java
 - Manage and personalize your account.
 - Beautiful UI with Carousel and nice Color combinations.
 - Offline Capabilities.
-- Navigation between diffrent screens and categories .
+- Navigation between different screens and categories .
 - Choose your Meal size and quantities .
 - Promo Code System .
 - Food Orders Tracking system (Using Maps).
